@@ -6,6 +6,7 @@ Here are the projects and subjects I have worked on during my studies:
 
 * Highschool project - [Sferogebra](https://github.com/Yarowit/Sferogebra)
 * [First year](https://github.com/Yarowit/First-Year) of my studies
+  * [checkers](https://github.com/pawc02/Warcaby) project
 * [Second year](https://github.com/stars/Yarowit/lists/second-year) of my studies
   * [Algorithms and Data Structures](https://github.com/Yarowit/Algorithms-and-Data-Structures)
   * [Discrete Optimization Algorithms](https://github.com/Yarowit/Discrete-Optimization-Algorithms)
@@ -13,6 +14,7 @@ Here are the projects and subjects I have worked on during my studies:
   * [Introduction to Artificial Intelligence](https://github.com/Yarowit/Introduction-to-Artificial-Intelligence)
   * [Probability and Statistics](https://github.com/Yarowit/Probability-and-Statistics)
   * [Mobile Applications](https://github.com/Yarowit/Mobile-Applications)
+  * [Gitpad](https://github.com/mikolaj2002/GitPad) - group web project
 * [Third year](https://github.com/stars/Yarowit/lists/third-year)
   * [Theoretical Fundamentals of Computer Science](https://github.com/Yarowit/Theoretical-Fundamentals-of-Computer-Science)
   * [Formal Languages and Theory of Automata](https://github.com/Yarowit/Formal-Languages-and-Theory-of-Automata)
