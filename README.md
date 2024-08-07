@@ -23,7 +23,7 @@ Here are the projects and subjects I have worked on during my studies:
   * [Metaheuristics](https://github.com/Yarowit/Metaheuristics-Travelling-Salesman-Problem)
   * [Analytic Combinatorics](https://github.com/Yarowit/Analytic-Combinatorics)
 
-I am an active member of a nationwide astronomy club Almukantarat, where I organise camps and meetings for highschool students interested in science
+I am an active member of a nationwide astronomy club [Almukantarat](https://almukantarat.pl), where I organise camps and meetings for highschool students interested in science
 
 Recently I took part in an ERASMUS exchange with Universidad Carlos III de Madrid, where I worked on [these](https://github.com/stars/Yarowit/lists/universidad-carlos-iii-de-madrid) subjects:
 * [Microprocessors](https://github.com/Yarowit/Microprocessors)
