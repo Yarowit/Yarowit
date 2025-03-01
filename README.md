@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a student of Algorithmic Computer Science at Wroclaw University of Science and Technology
+I am a student of masters degree of Algorithmic Computer Science at Wroclaw University of Science and Technology
+
+I currently posess an engineers degree in computer science. My engineers thesis can be seen [here](https://github.com/Yarowit/Engineers-Thesis).
 
 Here are the projects and subjects I have worked on during my studies:
 
